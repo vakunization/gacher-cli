@@ -1,0 +1,6 @@
+{
+	"db-name" : "wiki.db",
+	"max-depth" : 1,
+	"categories" : ["Category:Trees (data structures)", "Category:Linux"],
+	"user-agent" : "User-Agent: StudyProject/0.1; script for Wikipedia API)"
+}
